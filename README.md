@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wiseleelee
 - 👀 I’m interested in full stack developing, data science analysis
-- 🌱 I’m currently learning python
+- 🌱 I’m prompt engineer
 - 💞️ I’m looking to collaborate on R, Python, Nuxjs
 - 📫 How to reach me wiseleelee@gmail.com
 
